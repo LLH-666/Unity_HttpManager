@@ -1,4 +1,3 @@
 # Unity_HttpManager
 http协议，Get/Post操作
-Http
-Http2
+Test2
